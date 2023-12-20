@@ -15,7 +15,7 @@
 
 ### :man_technologist: About Me :
   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Colombia.
-- :telescope: I’m currently seeking for a junior Software Engineer/Developer. I enjoy both frontend and backend for building web applications.
+- :telescope: I’m currently seeking for a junior Software Engineer/Developer position. I enjoy both frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
