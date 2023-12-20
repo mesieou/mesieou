@@ -17,7 +17,7 @@
   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Colombia.
 - :telescope: I’m currently seeking for a junior Software Engineer/Developer position. I enjoy both frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Untrepreneurship and Data Science.
 
 - :zap: In my free time, I do calisthenics, business and learning about new technologies.
 
