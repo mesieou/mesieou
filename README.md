@@ -23,6 +23,12 @@
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juan-david-bernal-146305bb/)
 
+- :web: A couple of my static pages:
+1- <a href="https://mesieou.github.io/profile.v2/">
+</a>
+2- <a href="https://mesieou.github.io/landing_page_2/">
+</a>
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
