@@ -23,7 +23,13 @@
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juan-david-bernal-146305bb/)
 
-- 🕸️ A couple of my static pages: <a href="https://mesieou.github.io/profile.v2/" target="_blank">My Profile</a> , <a href="https://mesieou.github.io/landing_page_2/" target="_blank">Removal business Landing page</a>
+- 🕸️ A couple of my static pages:
+  
+- <a href="https://mesieou.github.io/profile.v2/" target="_blank">My Profile</a>
+
+-   <a href="https://mesieou.github.io/landing_page_2/" target="_blank">Removal business Landing page</a>
+
+-  <a href="https://mesieou.github.io/08-Templating/Optional-01-Todo-List-React/" target="_blank">My To do list with React</a>
 
 ---
 
