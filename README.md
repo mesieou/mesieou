@@ -15,7 +15,7 @@
 
 ### :man_technologist: About Me :
   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Colombia.
-- :telescope: I building Ai agents. 
+- :telescope: I specialised in building Ai agents. 
 
 - :seedling: Currently build Skedy AI an Ai receptionist for small businesses to automate their customer service and bookings.
 
